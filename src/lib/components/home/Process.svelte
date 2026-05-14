@@ -620,7 +620,7 @@
     <!-- Bottom strip -->
     <div class="bottom-strip">
       <p class="strip-text" style="color:rgba(255,255,255,0.18);">90+ lenders · 5-day approval · 20+ years experience</p>
-      <p class="strip-text" style="color:rgba(197,160,89,0.35);">Marcus Mitchell · Senior Mortgage Advisor</p>
+      <p class="strip-text" style="color:rgba(197,160,89,0.35);">Marcus Montrose · Senior Mortgage Advisor</p>
     </div>
   </div>
 </section>
