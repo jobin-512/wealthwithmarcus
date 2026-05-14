@@ -3,15 +3,15 @@
   import { onMount } from 'svelte';
 
   let sectionRef;
-  let headlineWords = [];
-  let cards = [];
+  let headlineWords = $state([]);
+  let cards = $state([]);
   let lineRef;
   let lineGlowRef;
   let ctaRef;
   let orb1, orb2;
   let canvasRef;
   let dot1, dot2, dot3;
-  let counterEls = [];
+  let counterEls = $state([]);
   let tagRef;
   let bodyRef;
   let scanlineRef;
