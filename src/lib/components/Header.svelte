@@ -35,6 +35,7 @@
   const navLinks = [
     { label: 'Home',            href: '/',                dropdown: null },
     { label: 'Solutions',       href: '/solutions',       dropdown: 'solutions' },
+    { label: 'heloc',        href: '/heloc',        dropdown: null },
     { label: 'Strategy',        href: '/strategy',        dropdown: null },
     { label: 'Results',         href: '/results',         dropdown: null },
     { label: 'Learning Center', href: '/learning-center', dropdown: null },
