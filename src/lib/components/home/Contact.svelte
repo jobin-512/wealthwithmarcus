@@ -236,7 +236,7 @@
 		>
 			<div class="card-border"></div>
 
-			<div class="icon-wrap">
+			<div class="icon-wrap hidden! md:flex!">
 				<svg
 					class="h-5 w-5"
 					fill="none"

@@ -90,7 +90,7 @@
 					<div class="h-2 w-2 rounded-full bg-[#c5a059]"></div>
 
 					<span class="font-mono text-[11px] uppercase tracking-[0.28em] text-white/50">
-						Private Lending Solutions
+						Wealth With Marcus
 					</span>
 				</div>
 
