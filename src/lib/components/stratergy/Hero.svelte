@@ -130,7 +130,7 @@
 
 <section
   bind:this={sectionRef}
-  class="relative min-h-screen overflow-hidden bg-[#050505] pt-40"
+  class="relative min-h-screen overflow-hidden bg-[var(--theme-color)] pt-40"
 >
   <!-- BACKGROUND -->
   <div class="noise"></div>

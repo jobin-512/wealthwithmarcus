@@ -291,7 +291,7 @@
   section {
     position: relative;
     overflow: hidden;
-    background: #07070a;
+    background: var(--theme-color);
   }
 
   section::after {

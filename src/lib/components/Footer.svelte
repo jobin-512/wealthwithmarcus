@@ -31,7 +31,7 @@
 	];
 </script>
 
-<footer class="relative overflow-hidden border-t border-white/10 bg-[#050505]">
+<footer class="relative overflow-hidden border-t border-white/10 bg-[var(--theme-color)]">
 	<!-- Ambient -->
 	<div class="pointer-events-none absolute inset-0">
 		<div

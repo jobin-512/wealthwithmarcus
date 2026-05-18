@@ -111,7 +111,7 @@
 
 <section
   bind:this={sectionRef}
-  class="relative overflow-hidden bg-[#050505] pb-24 pt-40 lg:min-h-screen lg:pb-32 lg:pt-44"
+  class="relative overflow-hidden bg-[var(--theme-color)] pb-24 pt-40 lg:min-h-screen lg:pb-32 lg:pt-44"
 >
   <!-- BACKGROUND -->
   <div class="noise"></div>

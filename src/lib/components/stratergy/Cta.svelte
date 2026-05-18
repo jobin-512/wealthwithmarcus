@@ -84,7 +84,7 @@
 
 <section
   bind:this={sectionRef}
-  class="relative overflow-hidden bg-[#050505] py-36 lg:py-52"
+  class="relative overflow-hidden bg-[var(--theme-color)] py-36 lg:py-52"
 >
   <!-- BACKGROUND -->
   <div class="absolute inset-0 overflow-hidden">

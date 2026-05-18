@@ -152,7 +152,7 @@
   section {
   position: relative;
   overflow: visible;
-  background: #030307;
+  background: var(--theme-color);
   padding: 8rem 0 10rem;
 	}
 

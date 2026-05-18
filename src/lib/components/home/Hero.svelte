@@ -1,7 +1,7 @@
 <script>
 // @ts-nocheck
   import { onMount } from 'svelte';
-  import crystal from "$lib/assets/home/letter-crystal-hd.mp4";
+  import crystal from "$lib/assets/home/banner.mp4";
 
   let sectionRef, canvasRef, videoRef;
   let eyebrowRef, h1Ref, subRef, ctaRef, ctaInnerRef, badgesRef, tickerRef;
@@ -202,7 +202,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    background: #04040a;
+    background: var(--theme-color);
   }
 
   /* Film grain */

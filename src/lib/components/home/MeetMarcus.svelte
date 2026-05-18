@@ -193,7 +193,7 @@
   section {
     position: relative;
     overflow: hidden;
-    background: var(--color-surface, #080808);
+    background: var(--theme-color);
   }
 
   /* ── Grain overlay ── */
@@ -242,7 +242,7 @@
   .curtain {
     position: absolute;
     inset: 0;
-    background: var(--color-surface, #080808);
+    background: var(--color-surface, #02066f);
     z-index: 10;
     transform-origin: left center;
     border-radius: inherit;
@@ -376,7 +376,7 @@
           <a
             href="/contact"
             class="inline-flex items-center gap-3 rounded-full px-8 py-4 text-sm font-semibold transition-colors"
-            style="background: var(--accent, #c5a059); color: #080808;"
+            style="background: var(--accent, #c5a059); color: #02066f;"
           >
             Get Started Today
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">

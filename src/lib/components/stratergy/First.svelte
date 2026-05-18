@@ -99,7 +99,7 @@
 
 <section
 	bind:this={sectionRef}
-	class="relative overflow-hidden border-t border-white/6 bg-[#030303] py-32 lg:py-44"
+	class="relative overflow-hidden border-t border-white/6 bg-[var(--theme-color)] py-32 lg:py-44"
 >
 	<!-- Background -->
 	<div class="absolute inset-0">

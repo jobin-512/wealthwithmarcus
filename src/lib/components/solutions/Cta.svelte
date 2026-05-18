@@ -82,7 +82,7 @@
 
 <section
   bind:this={sectionRef}
-  class="relative overflow-hidden bg-[#050505] py-36 lg:py-44"
+  class="relative overflow-hidden bg-[var(--theme-color)] py-36 lg:py-44"
 >
   <!-- BACKGROUND -->
   <div class="noise"></div>
